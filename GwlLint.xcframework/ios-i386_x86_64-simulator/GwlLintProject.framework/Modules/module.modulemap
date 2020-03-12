@@ -1,0 +1,6 @@
+framework module GwlLintProject {
+  umbrella header "GwlLintProject.h"
+
+  export *
+  module * { export * }
+}
