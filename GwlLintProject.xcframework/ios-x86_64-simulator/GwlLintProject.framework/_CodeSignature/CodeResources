@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/GwlLintProject.h</key>
 		<data>
-		oOjRMkm9Nd0hOJCwUk2YoDxj9Rg=
+		fQI6Kct8FCVBlgJ6OGHvvANftWA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RLAtAusxBUMQCEEkiLqqoptg+Fs=
+		11c8w5NhMa6twvjWLiaSoOHWSIQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -25,10 +25,6 @@
 	<dict>
 		<key>.swiftlint.yml</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nwm1XxdUyZlL5W6J+51VG6Q2Ycg=
-			</data>
 			<key>hash2</key>
 			<data>
 			/iL9CCpMJCItnJAUUydXIkvOHc3WkmbPruxYvUceID4=
@@ -36,21 +32,13 @@
 		</dict>
 		<key>Headers/GwlLintProject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oOjRMkm9Nd0hOJCwUk2YoDxj9Rg=
-			</data>
 			<key>hash2</key>
 			<data>
-			voibwPmUaz0CCqknwly969/K6kUZjZEsOvLfB3zqgYI=
+			ZdRmQpML3CaTa8l6lw2NKapo2uNxjHKAmD3AE329HMQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KYiDavO+3aSoMNq4XzZEp7mkKGA=
-			</data>
 			<key>hash2</key>
 			<data>
 			RFxqZSR6MM3is0ab1h16HCfKMh31jIftVKEKqWNMspE=
