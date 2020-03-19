@@ -1,0 +1,56 @@
+
+#disabled_rules:
+#- trailing_whitespace
+
+opt_in_rules:
+- empty_count
+- force_unwrapping
+- legacy_constant
+- legacy_constructor
+- private_action
+- private_outlet
+
+excluded:
+- Carthage
+- Pods
+- SwiftLint/Common/3rdPartyLib
+
+force_cast: warning # implicitly
+force_try:
+  severity: warning # explicitly
+# rules that have both warning and error levels, can set just the warning level
+
+type_body_length:
+  - 300 # warning
+  - 400 # error
+# or they can set both explicitly
+
+file_length:
+warning: 500
+error: 1200
+ignore_comment_only_lines: true
+
+line_length:
+- 120 # warning
+- 250 # error
+
+function_body_length:
+warning: 25
+error: 35
+
+function_parameter_count:
+warning: 5
+error: 8
+
+type_body_length:
+warning: 300
+error: 500
+
+
+cyclomatic_complexity:
+warning: 15
+error: 25
+
+
+reporter: "xcode"
+
