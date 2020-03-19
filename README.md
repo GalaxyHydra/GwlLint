@@ -2,7 +2,7 @@
 
 add this to your pod file -
 
-**pod "GwlLint", :git => "https://github.com/GalaxyHydra/GwlLint.git"**
+**pod "GalaxyLint", :git => "https://github.com/GalaxyHydra/GwlLint.git"**
 
 then run - **"pod install"** command on terminal
 
