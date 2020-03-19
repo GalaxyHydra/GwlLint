@@ -1,0 +1,6 @@
+framework module GalaxyLint {
+  umbrella header "GalaxyLint.h"
+
+  export *
+  module * { export * }
+}
