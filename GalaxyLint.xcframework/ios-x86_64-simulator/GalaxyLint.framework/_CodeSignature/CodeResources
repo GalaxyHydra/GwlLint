@@ -6,19 +6,19 @@
 	<dict>
 		<key>.swiftlint.yml</key>
 		<data>
-		nwm1XxdUyZlL5W6J+51VG6Q2Ycg=
+		WUcDJfD5UG97U8kvlZq1sVmodzM=
 		</data>
-		<key>Headers/GwlLintProject.h</key>
+		<key>Headers/GalaxyLint.h</key>
 		<data>
-		fQI6Kct8FCVBlgJ6OGHvvANftWA=
+		/AAlTphs7HJfLEnGUc/Mc6z+2i8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		11c8w5NhMa6twvjWLiaSoOHWSIQ=
+		igfNsS7fUDEhEkbrfBh/Sip7UtM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		KYiDavO+3aSoMNq4XzZEp7mkKGA=
+		ge10OtF4769mXSFaMeN+Vfcncvo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -27,21 +27,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/iL9CCpMJCItnJAUUydXIkvOHc3WkmbPruxYvUceID4=
+			nHgLs6AIZwfvKeeEbIcXLlv8cZ2dwbYkxx864BUMBQ4=
 			</data>
 		</dict>
-		<key>Headers/GwlLintProject.h</key>
+		<key>Headers/GalaxyLint.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZdRmQpML3CaTa8l6lw2NKapo2uNxjHKAmD3AE329HMQ=
+			tM2oe38N+bMF+ZdmsYf/Xifpz/m1OdOmP8pJHge8wGU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RFxqZSR6MM3is0ab1h16HCfKMh31jIftVKEKqWNMspE=
+			LbRJYD9by2IHW5k1qTlHhtmAclcrdF5bPHYXa8xssOA=
 			</data>
 		</dict>
 	</dict>
