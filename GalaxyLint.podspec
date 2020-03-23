@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "GalaxyLint"
-s.version      = "0.4"
+s.version      = "0.5"
 s.summary      = "Default lint rules for galaxyweblinks."
 s.description  =  <<-DESC
 This framework contains default rule to be applied on projects of Galaxyweblinks.
