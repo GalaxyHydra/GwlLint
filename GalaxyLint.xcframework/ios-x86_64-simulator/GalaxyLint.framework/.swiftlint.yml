@@ -82,8 +82,8 @@ line_length:
 - 250 # error
 
 function_body_length:
-- 10 # warning
-- 25 # error
+- 25 # warning
+- 40 # error
 
 function_parameter_count:
 - 5 # warning
