@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
-s.name         = "GalaxyLint"
-s.version      = "0.6"
+s.name         = "GWLLint"
+s.version      = "0.7"
 s.summary      = "Default lint rules for galaxyweblinks."
 s.description  =  <<-DESC
 This framework contains default rule to be applied on projects of Galaxyweblinks.
@@ -11,7 +11,7 @@ s.author       = { 'Galaxy weblinks' => 'statics@kpmrs.com' }
 s.license      = "MIT"
 s.platform     = :ios, "10.0"
 s.source       = { :git => "https://github.com/GalaxyHydra/GwlLint.git", :tag => s.version }
-s.vendored_frameworks = 'GalaxyLint.xcframework'
+s.vendored_frameworks = 'GWLLint.xcframework'
 s.swift_version = "5.0"
 s.dependency "SwiftLint"
 

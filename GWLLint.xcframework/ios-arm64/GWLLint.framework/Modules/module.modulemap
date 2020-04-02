@@ -1,0 +1,6 @@
+framework module GWLLint {
+  umbrella header "GWLLint.h"
+
+  export *
+  module * { export * }
+}
